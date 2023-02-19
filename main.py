@@ -6,7 +6,7 @@ from scoreboard import Scoreboard
 
 screen = Screen()
 screen.setup(width=600, height=600)
-screen.title("Stefan's: Turtle Crossing Game")
+screen.title("Stefan's: Road Crossing Game")
 screen.tracer(0)
 
 player = Player()
